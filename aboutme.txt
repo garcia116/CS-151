@@ -1,0 +1,12 @@
+Your name: Gerardo Garcia
+Your student ID: 007974343	
+Your major: Software Engineering
+Your preferred email address: gerardo.garcia01@sjsu.edu
+Check one: [ X ] Undergraduate, [ ] Graduate, [ ] Open university 
+Repeating the class? [ ] Yes, [ X ] No
+Place and semester where you took a programming course in Java: SJSU Fall 2017
+Course number and grade received: CS 146 - C+
+Place and semester where you took a course in data structures: SJSU Fall 2017
+Course number and grade received: CS 146 - C+
+Time it took you to answer the two questions below:
+Did you ask anyone for help? [ ] Yes, [ X ] No
